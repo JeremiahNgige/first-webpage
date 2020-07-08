@@ -3,7 +3,7 @@
 ## Description
 {The web site contains a list of the things I will learn at Moringa Prep programme in the Home Page.<br/>
  There's a link named **Favorite Things** which links you to another page that contains a list of my favorite things as shown below.<br/>
- ![favorite page screenshot](https://github.com/JeremiahNgige/first-webpage/blob/master/images/favpage%20.png)
+ ![favorite page screenshot](https://github.com/JeremiahNgige/first-webpage/blob/master/images/favpage.png)
  }
 ## Setup/Installation Requirements
 * This is a great place
