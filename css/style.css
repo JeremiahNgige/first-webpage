@@ -9,10 +9,29 @@ h2{
 }
 p{
     font-family: sans-serif;
+    text-align: center;
 }
 ul{
     line-height: 40px;
+    text-align: center;
+}
+ol{
+    line-height: 40px;
+    text-align: center;
 }
 em{
     font-weight: lighter;
+}
+li{
+    text-align: center;
+}
+div{
+    align-content: center;
+}
+img{
+    align-items: center;
+}
+body{
+    background-color: rgb(255, 245, 209);
+    opacity: 1.0;
 }
