@@ -20,7 +20,7 @@ ol{
     text-align: center;
 }
 em{
-    font-weight: lighter;
+    font-weight: bolder;
 }
 li{
     text-align: center;
@@ -34,4 +34,7 @@ img{
 body{
     background-color: rgb(255, 245, 209);
     opacity: 1.0;
+}
+strong{
+    font-style: italic;
 }
